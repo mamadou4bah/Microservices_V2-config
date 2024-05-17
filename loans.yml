@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to mamadou4bah loans related local APIs "
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: "{cipher}af716e04ed8ff8c4fa75ff3efb4b8745f8989bef87500b9b5136eb08482dc714647513c644f0d6695d289142fe5435fe"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

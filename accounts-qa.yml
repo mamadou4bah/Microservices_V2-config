@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to mamadou4bah accounts related QA APIs "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "{cipher}8f1e4e0ff18f326fd61a6621d3ccd7ca79b285cd322daa34315c97c904951436e886d67b111df3999a5a63c86ea53add"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

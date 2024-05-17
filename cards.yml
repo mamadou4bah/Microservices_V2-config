@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to mamadou4bah cards related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "{cipher}c2320c976a2f397af968657fde3a34e50f5cc7a49ffa600b85f5180df3f1f24f4be3d14b4331a3f38a8dc20e450c5ea8"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

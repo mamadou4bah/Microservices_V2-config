@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to mamadou4bah loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: "{cipher}fffa1c002e36f393884d51005bb51ed6cc9f027060f333b9b7a52db36f859f182312bde506a3f9d8ee7b547590817e20"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
