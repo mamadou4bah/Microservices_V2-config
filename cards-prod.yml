@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to mamadou4bah cards related production APIs "
+  message: "Welcome to mamadou4bah cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}8b322be9dd1e87833ad73cf4cd30aa706e35a8490db4619000af4c1a09babe372365cbe5c06475b8868830532f6ae9e8"
