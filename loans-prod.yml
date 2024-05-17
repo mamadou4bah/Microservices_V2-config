@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to mamadou4bah loans related prod APIs "
+  message: "Welcome to mamadou4bah loans related production APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}e1fdc86f1782f53018767008943c7196e08fb43dcc68e8a8a3e7425c781b5aa8eeb6027cb7f378390f28cea5a8c220a4"
