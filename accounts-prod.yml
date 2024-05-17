@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to mamadou4bah accounts related production APIs "
+  message: "Welcome to mamadou4bah accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}1313a8d9d8b6139393d151b62e1aaa463864af8e870c94305a0193e45b3c8bf6e18121bca07846cd6ff441f95ee7c390"
